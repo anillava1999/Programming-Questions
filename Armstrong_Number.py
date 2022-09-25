@@ -1,3 +1,6 @@
+
+# Program to check a number is Armstrong or not in python programming language
+
 Number = 154
 Duplicate = Number                        # Making duplicate input
 Add_Ele = 0
